@@ -1,0 +1,27 @@
+{
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/updao/api.git"
+  },
+  "scripts": {
+    "test": ""
+  },
+  "main": "updao.js",
+  "description": "API for UPDAO",
+  "uperversion": "0.0",
+  "homepage": "https://github.com/updao/api#readme",
+  "bugs": {
+    "url": "https://github.com/updao/api/issues"
+  },
+  "license": "ISC",
+  "author": "Andrey Stehno",
+  "keywords": [
+    "launchpad"
+  ],
+  "name": "updao",
+  "version": "0.0.16",
+  "subversion": 16,
+  "dependencies": {
+    "superagent": "^3.8.2"
+  }
+}
